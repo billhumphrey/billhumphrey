@@ -33,15 +33,12 @@ Feel free to explore my repos or reach out for collaboration!
 
   <!-- Backend Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+
 
 </div>
 
 
 
 
-###
 
-![code](https://github.com/user-attachments/assets/63239ce0-890f-458a-9f8f-53326261cf8e)
-
-
---
