@@ -6,7 +6,7 @@ Skills in software architecture, system security, and software verification & va
 
 I'm especially fascinated by emerging technologies like IoT, robotics, and space exploration, and love experimenting with smart systems and intelligent automation.
 
-🚀 Whether it’s mobile apps, web platforms, or AI-driven systems, I’m always exploring new challenges and pushing the boundaries of what’s possible.
+Whether it’s mobile apps, web platforms, or AI-driven systems, I’m always exploring new challenges and pushing the boundaries of what’s possible.
 
 Feel free to explore my repos or reach out for collaboration! 
 
