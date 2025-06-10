@@ -2,7 +2,7 @@
 
 I'm Bill Humphrey — a passionate Software Engineer with expertise in machine learning & AI, full-stack software development, ethical hacking, crossplatform mobile application development and network engineering.
 
-Skills in software architecture, system security, and software verification & validation, with a focus on building practical, real-world solutions.
+Skilled in software architecture, system security, and software verification & validation, with a focus on building practical, real-world solutions.
 
 I'm especially fascinated by emerging technologies like IoT, robotics, and space exploration, and love experimenting with smart systems and intelligent automation.
 
