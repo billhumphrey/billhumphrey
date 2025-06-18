@@ -10,7 +10,6 @@ Whether it’s mobile apps, web platforms, or AI-driven systems, I’m always ex
 
 Feel free to explore my repos or reach out for collaboration! 
 
-
 <div align="left">
 
   <!-- Programming Languages -->
@@ -32,12 +31,21 @@ Feel free to explore my repos or reach out for collaboration!
 
   <!-- Backend Development -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
+  <img width="12" />
 
+  <!-- Jupyter Notebook -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter notebook logo" />
+  <img width="12" />
+
+  <!-- IoT (Placeholder icon) -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" height="40" alt="IoT logo" />
+  <img width="12" />
+
+  <!-- Cybersecurity (Shield icon placeholder) -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/security-shield-green.png" height="40" alt="cybersecurity logo" />
 
 </div>
-
-
-
 
 
