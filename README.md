@@ -39,12 +39,29 @@ Feel free to explore my repos or reach out for collaboration!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter notebook logo" />
   <img width="12" />
 
-  <!-- IoT (Placeholder icon) -->
+  <!-- IoT -->
   <img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" height="40" alt="IoT logo" />
   <img width="12" />
 
-  <!-- Cybersecurity (Shield icon placeholder) -->
+  <!-- Cybersecurity -->
   <img src="https://img.icons8.com/ios-filled/50/000000/security-shield-green.png" height="40" alt="cybersecurity logo" />
+  <img width="12" />
+
+  <!-- Robotics -->
+  <!-- Robotics -->
+<img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" height="40" alt="robotics logo" />
+
+  <img width="12" />
+
+  <!-- Machine Learning / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+
+  <!-- Cars / Automotive -->
+  <img src="https://img.icons8.com/ios-filled/50/000000/car.png" height="40" alt="car logo" />
+
 
 </div>
 
