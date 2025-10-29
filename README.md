@@ -16,14 +16,6 @@ Ask me about **IoT**, **Python**, **React**, **Java**, **C/C++**, and **software
 
 ---
 
-###  **Connect with Me**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
-[![Twitter](https://img.shields.io/badge/X_\(Twitter\)-000000?style=flat\&logo=x\&logoColor=white)](https://twitter.com/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat\&logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/)
-
----
-
 ###  **Languages & Tools**
 
 <div align="left">
