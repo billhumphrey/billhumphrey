@@ -1,68 +1,53 @@
-## Hi there 👋.
 
-I'm Bill Humphrey — a passionate Software Engineer/IOT Engineer with expertise in embeded systems, machine learning & AI, full-stack software development, ethical hacking, crossplatform mobile application development and network engineering.
+## Hi there 👋
 
-Skilled in software architecture, system security, and software verification & validation, with a focus on building practical, real-world solutions.
+I'm **Bill Humphrey Otieno Oduor** — a passionate **Software & IoT Engineer** focused on building intelligent systems that connect the physical and digital worlds.
 
-I'm especially fascinated by emerging technologies like IoT, robotics, and space exploration, and love experimenting with smart systems and intelligent automation.
+---
 
-Whether it’s mobile apps, web platforms, or AI-driven systems, I’m always exploring new challenges and pushing the boundaries of what’s possible.
+###  **About Me**
 
-Feel free to explore my repos or reach out for collaboration! 
+I’m currently developing IoT, AI, and full-stack software solutions using modern technologies.
+I love creating smart systems that combine **embedded hardware**, **machine learning**, and **automation**.
+Passionate about **ethical hacking**, **software security**, and **system reliability**.
+Experienced in **cross-platform mobile development** and **web application design**.
+I’m always exploring emerging fields like **robotics**, **AI**, and **space systems engineering**.
+Ask me about **IoT**, **Python**, **React**, **Java**, **C/C++**, and **software architecture**.
+
+---
+
+###  **Connect with Me**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/)
+[![Twitter](https://img.shields.io/badge/X_\(Twitter\)-000000?style=flat\&logo=x\&logoColor=white)](https://twitter.com/)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat\&logo=stack-overflow\&logoColor=white)](https://stackoverflow.com/)
+
+---
+
+###  **Languages & Tools**
 
 <div align="left">
 
-  <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <!-- Most Used -->
 
-  <!-- Frontend Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="Jupyter" title="Jupyter Notebook (Most Used)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" title="React (Most Used)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" title="Python (Most Used)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" title="JavaScript (Most Used)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" title="Java (Most Used)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="C++" title="C++ (Most Used)" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="C" title="C (Most Used)" />
 
-  <!-- Backend Development -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
-  <img width="12" />
+  <!-- Supporting Tools -->
 
-  <!-- Jupyter Notebook -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter notebook logo" />
-  <img width="12" />
-
-  <!-- IoT -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" height="40" alt="IoT logo" />
-  <img width="12" />
-
-  <!-- Cybersecurity -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/security-shield-green.png" height="40" alt="cybersecurity logo" />
-  <img width="12" />
-
-  <!-- Robotics -->
-  <!-- Robotics -->
-<img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" height="40" alt="robotics logo" />
-
-  <img width="12" />
-
-  <!-- Machine Learning / AI -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-
-  <!-- Cars / Automotive -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/car.png" height="40" alt="car logo" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch" title="PyTorch" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/internet-of-things.png" height="40" alt="IoT" title="Internet of Things" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/security-shield-green.png" height="40" alt="Cybersecurity" title="Cybersecurity" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" height="40" alt="Robotics" title="Robotics" />
 
 </div>
-
 
