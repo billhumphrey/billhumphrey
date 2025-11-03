@@ -12,7 +12,7 @@ I love creating smart systems that combine **embedded hardware**, **machine lear
 Passionate about **ethical hacking**, **software security**, and **system reliability**.
 Experienced in **cross-platform mobile development** and **web application design**.
 I’m always exploring emerging fields like **robotics**, **AI**, and **space systems engineering**.
-Ask me about **IoT**, **Python**, **React**, **Java**, **C/C++**, and **software architecture**.
+
 
 ---
 
