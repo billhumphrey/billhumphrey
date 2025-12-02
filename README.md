@@ -9,7 +9,7 @@ I'm **Bill Humphrey Otieno Oduor** — a passionate **Software & IoT Engineer** 
 
 I’m currently developing IoT, AI, and full-stack software solutions using modern technologies.
 I love creating smart systems that combine **embedded hardware**, **machine learning**, and **automation**.
-Passionate about **ethical hacking**, **software security**, and **system reliability**.
+Passionate about **ethical hacking**, and **software security**.
 Experienced in **cross-platform mobile development** and **web application design**.
 I’m always exploring emerging fields like **robotics**, **AI**, and **space systems engineering**.
 
