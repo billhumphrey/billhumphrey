@@ -1,7 +1,7 @@
 
 ## Hi there 👋
 
-I'm **Bill Humphrey Otieno Oduor** — a passionate **Software & IoT Engineer** focused on building intelligent systems that connect the physical and digital worlds.
+I'm **Bill Humphrey Oduor** — a passionate **Software & IoT Engineer** focused on building intelligent systems that connect the physical and digital worlds.
 
 ---
 
