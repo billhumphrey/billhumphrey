@@ -1,17 +1,5 @@
 
-## Hi there 👋
-
-I'm **Bill Humphrey Oduor** — a passionate **Software & IoT Engineer** focused on building intelligent systems that connect the physical and digital worlds.
-
----
-
-###  **About Me**
-
-I’m currently developing IoT, AI, and full-stack software solutions using modern technologies.
-I love creating smart systems that combine **embedded hardware**, **machine learning**, and **automation**.
-Passionate about **ethical hacking**, and **software security**.
-Experienced in **cross-platform mobile development** and **web application design**.
-I’m always exploring emerging fields like **robotics**, **AI**, and **space systems engineering**.
+Hi there 👋 I build intelligent, secure, real-world solutions using IoT, AI, embedded systems, machine learning, and mobile technologies.
 
 
 ---
