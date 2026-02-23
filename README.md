@@ -1,5 +1,5 @@
 
-Hi there 👋 I build intelligent, secure, real-world solutions using IoT, AI, embedded systems, machine learning, and mobile technologies.
+Hi there I build intelligent, secure, real-world solutions using IoT, AI, machine learning, and mobile technologies.
 
 
 ---
